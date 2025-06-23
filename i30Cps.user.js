@@ -5,7 +5,7 @@
 // @match       *://moomoo.io/*
 // @match       *://sandbox.moomoo.io/*
 // @match       *://dev.moomoo.io/*
-// @version     1.8.1
+// @version     1.0
 // @grant       none
 // @require     https://greasyfork.org/scripts/423602-msgpack/code/msgpack.js?version=912797
 // ==/UserScript==
