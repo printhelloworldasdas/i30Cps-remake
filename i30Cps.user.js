@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        Moomoo.io Utility Mod
-// @namespace   i30cps
+// @name        i30Cps remake
+// @namespace   i30Cps remake
 // @description BEST WS SENDER MOD! ESC = Mod Menu, P = WS Sender, L = Console Command. [ = advanced autochat. Features: Increased FPS, Ad Block, Biome Map, and more!
 // @match       *://moomoo.io/*
 // @match       *://sandbox.moomoo.io/*
